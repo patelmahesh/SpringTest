@@ -1,4 +1,4 @@
-package com.panthera.SpringTest;
+package com.panthera.configuration;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
